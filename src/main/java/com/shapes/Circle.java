@@ -9,14 +9,14 @@ static
 }
 public Circle()
 {
-	System.out.println("cirecle119999999991 111defaul const");
+	System.out.println("circle constructor");
 }
 public Circle(String shape) {
 	super();
 
 	System.out.println("this is local message");
 
-	System.out.println("this is remote message");
+	
 	this.shape = shape;
 }
 
