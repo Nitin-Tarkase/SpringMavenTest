@@ -9,7 +9,7 @@ static
 }
 public Circle()
 {
-	System.out.println("cirecle defaul const");
+	System.out.println("cirecle1 defaul const");
 }
 public Circle(String shape) {
 	super();
