@@ -10,6 +10,7 @@ static
 public Circle()
 {
 	System.out.println("circle constructor");
+	System.out.println("circle2 constructor");
 }
 public Circle(String shape) {
 	super();
