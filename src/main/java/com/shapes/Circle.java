@@ -13,7 +13,10 @@ public Circle()
 }
 public Circle(String shape) {
 	super();
+
 	System.out.println("this is local message");
+
+	System.out.println("this is remote message");
 	this.shape = shape;
 }
 
