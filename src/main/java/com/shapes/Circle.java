@@ -13,7 +13,7 @@ public Circle()
 }
 public Circle(String shape) {
 	super();
-	System.out.println("in circele65544 shaape");
+	System.out.println("this is remote message");
 	this.shape = shape;
 }
 
